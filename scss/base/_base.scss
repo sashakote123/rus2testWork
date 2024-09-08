@@ -1,0 +1,17 @@
+@import url(./../fonts/GothamPro/font.css);
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+body {
+    font-family: 'Gotham Pro', sans-serif;
+    //font-family: "Abel", sans-serif;
+    font-size: 13px;
+}
+
+body{
+    background-color: #171422;
+}
+
+.container{
+    max-width: 1450px;
+    padding: 0 15px;
+    margin: 0 auto;
+}

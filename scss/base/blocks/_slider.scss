@@ -1,0 +1,27 @@
+
+.slider-wrapper {
+    margin-top: 80px;
+    margin-bottom: 244px;
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+
+    width: 100%;
+}
+
+.swiper-container {
+    width: 100%;
+    overflow: hidden;
+}
+
+.swiper-wrapper {
+    display: flex;
+    width: 100%;
+}
+
+.swiper-slide img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+}
